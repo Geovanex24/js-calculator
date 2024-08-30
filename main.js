@@ -1,4 +1,4 @@
-import { CalculatorApp } from "./src/calculatorApp";
+import { CalculatorApp } from "./src/CalculatorApp";
 import "./style.css";
 
 CalculatorApp("#app");
